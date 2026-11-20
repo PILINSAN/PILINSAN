@@ -6,7 +6,7 @@
 
 <br>
 
-<!-- AQUÍ VA TU VIDEO: arrastra el .mp4 a esta línea y borra este comentario -->
+<img width="500" height="262" alt="Anime User Interface" src="https://github.com/user-attachments/assets/e25fbc2a-dcb7-40e3-bc0a-b6e4ab5ec3ca" />
 
 <br>
 
