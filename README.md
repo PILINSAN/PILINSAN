@@ -6,8 +6,10 @@
 
 <br>
 
-<img width="500" height="262" alt="Anime User Interface" src="https://github.com/user-attachments/assets/e25fbc2a-dcb7-40e3-bc0a-b6e4ab5ec3ca" />
-<img width="600" height="338" alt="97b312409fbcabc96d97ef45bf8f852b" src="https://github.com/user-attachments/assets/96793627-7b8d-4f93-94c2-e64bf9e9a71a" />
+<div align="center">
+  <img width="420" height="260" alt="Anime User Interface" src="https://github.com/user-attachments/assets/e25fbc2a-dcb7-40e3-bc0a-b6e4ab5ec3ca" />
+  <img width="420" height="260" alt="Terminal" src="https://github.com/user-attachments/assets/96793627-7b8d-4f93-94c2-e64bf9e9a71a" />
+</div>
 
 <br>
 
