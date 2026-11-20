@@ -7,10 +7,11 @@
 <br>
 
 <img width="500" height="262" alt="Anime User Interface" src="https://github.com/user-attachments/assets/e25fbc2a-dcb7-40e3-bc0a-b6e4ab5ec3ca" />
+<img width="426" height="318" alt="46163da5e8a1fa8e777a020607cddc1c" src="https://github.com/user-attachments/assets/8af5f950-a396-4a0d-ad51-48c292b9c41f" />
 
 <br>
 
-<h2><img src="https://api.iconify.design/lucide/user.svg?color=%232575fc" width="26" align="center"/> Sobre mí</h2> <img width="426" height="318" alt="46163da5e8a1fa8e777a020607cddc1c" src="https://github.com/user-attachments/assets/8af5f950-a396-4a0d-ad51-48c292b9c41f" />
+<h2><img src="https://api.iconify.design/lucide/user.svg?color=%232575fc" width="26" align="center"/> Sobre mí</h2> 
 
 
 - Estudiante en el **SENA**
