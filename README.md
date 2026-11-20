@@ -33,21 +33,17 @@
 
 <h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2300e5ff" width="26" align="center"/> Estadísticas de GitHub</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=PILINSAN&show_icons=true&theme=synthwave&hide_border=true&card_width=400&line_height=26" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PILINSAN&layout=compact&theme=synthwave&hide_border=true&card_width=400&langs_count=6" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=PILINSAN&theme=synthwave&hide_border=true" width="60%"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PILINSAN&show_icons=true&theme=synthwave&hide_border=true&card_width=800&line_height=28" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PILINSAN&layout=compact&theme=synthwave&hide_border=true&card_width=800&langs_count=6" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PILINSAN&theme=synthwave&hide_border=true" width="100%" height="200"/>
+</div>
 
 <h2><img src="https://api.iconify.design/lucide/mail.svg?color=%23b44cff" width="26" align="center"/> Contáctame</h2>
 
