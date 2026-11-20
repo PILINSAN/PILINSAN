@@ -1,5 +1,4 @@
- <img width="1000" height="420" alt="bcd0af5f67c485d4158e6cc35286fdee" src="https://github.com/user-attachments/assets/faef1a3e-8c76-4762-8910-c229ea62eada" />
-
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/faef1a3e-8c76-4762-8910-c229ea62eada" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=Estudiante+en+el+SENA;Aprendiz+de+Desarrollo+de+Software;Apasionado+por+programar;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
@@ -34,14 +33,21 @@
 
 <h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2300e5ff" width="26" align="center"/> Estadísticas de GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PILINSAN&show_icons=true&theme=synthwave&hide_border=true&card_width=420" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PILINSAN&layout=compact&theme=synthwave&hide_border=true&card_width=420" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PILINSAN&theme=synthwave&hide_border=true" height="150"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=PILINSAN&show_icons=true&theme=synthwave&hide_border=true&card_width=400&line_height=26" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PILINSAN&layout=compact&theme=synthwave&hide_border=true&card_width=400&langs_count=6" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com?user=PILINSAN&theme=synthwave&hide_border=true" width="60%"/>
+    </td>
+  </tr>
+</table>
 
 <h2><img src="https://api.iconify.design/lucide/mail.svg?color=%23b44cff" width="26" align="center"/> Contáctame</h2>
 
@@ -52,5 +58,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b44cff,100:ff4fd8&height=100&section=footer" width="100%"/>
-
-<img width="1000" height="420" alt="Imagen" src="https://github.com/user-attachments/assets/xxxxxxxx" />
