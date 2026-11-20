@@ -51,3 +51,5 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:b44cff,100:ff4fd8&height=100&section=footer" width="100%"/>
+
+<img width="1000" height="420" alt="Imagen" src="https://github.com/user-attachments/assets/xxxxxxxx" />
