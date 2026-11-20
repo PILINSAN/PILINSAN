@@ -10,7 +10,8 @@
 
 <br>
 
-<h2><img src="https://api.iconify.design/lucide/user.svg?color=%232575fc" width="26" align="center"/> Sobre mí</h2>
+<h2><img src="https://api.iconify.design/lucide/user.svg?color=%232575fc" width="26" align="center"/> Sobre mí</h2> <img width="426" height="318" alt="46163da5e8a1fa8e777a020607cddc1c" src="https://github.com/user-attachments/assets/8af5f950-a396-4a0d-ad51-48c292b9c41f" />
+
 
 - Estudiante en el **SENA**
 - Desde Colombia
