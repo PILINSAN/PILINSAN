@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Hola,%20soy%20Santi!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software&descSize=22&descAlignY=58" width="100%"/>
+<img width="100%" alt="Banner" src="PEGA-AQUI-EL-LINK-QUE-GENERO-GITHUB" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FF&center=true&vCenter=true&width=800&height=50&lines=Estudiante+en+el+SENA;Aprendiz+de+Desarrollo+de+Software;Apasionado+por+programar;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
