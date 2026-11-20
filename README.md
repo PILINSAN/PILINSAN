@@ -1,4 +1,5 @@
-<img width="100%" alt="Banner" src="PEGA-AQUI-EL-LINK-DEL-BANNER" />
+ <img width="1000" height="420" alt="bcd0af5f67c485d4158e6cc35286fdee" src="https://github.com/user-attachments/assets/faef1a3e-8c76-4762-8910-c229ea62eada" />
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=Estudiante+en+el+SENA;Aprendiz+de+Desarrollo+de+Software;Apasionado+por+programar;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
